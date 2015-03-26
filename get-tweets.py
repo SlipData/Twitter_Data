@@ -1,4 +1,4 @@
-!/usr/bin/python
+#! python27
 """
 Connect to Twitter's search API (which is the free, and limited
 
